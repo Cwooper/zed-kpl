@@ -1,0 +1,11 @@
+id = "kpl"
+name = "KPL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Cwooper <cwooperm@gmail.com>"]
+description = "KPL (Kernel Programming Language) support for Zed"
+repository = "https://github.com/Cwooper/zed-kpl"
+
+[grammars.kpl]
+repository = "https://github.com/Cwooper/tree-sitter-kpl"
+rev = "70f40516e122315cac2cc0d1ed9916cb0c0495cd"
