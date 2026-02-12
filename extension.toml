@@ -8,4 +8,4 @@ repository = "https://github.com/Cwooper/zed-kpl"
 
 [grammars.kpl]
 repository = "https://github.com/Cwooper/tree-sitter-kpl"
-rev = "5a853c23cdbc909f402c8da6b7f516d645a53c02"
+rev = "8d10dfa4917ae7e40c81d80433dbbcc395e9e04f"
